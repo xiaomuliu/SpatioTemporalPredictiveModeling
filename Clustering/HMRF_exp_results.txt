@@ -1,0 +1,56 @@
+Cell size: 660 660
+Number of Components: 4, Gibbs Prior Parameter: 1 Dirichlet Prior Parameter: 1
+Elapsed time: 1739.43
+Convergence: 3
+Number of Components: 4, Gibbs Prior Parameter: 10 Dirichlet Prior Parameter: 1
+Elapsed time: 2199.75
+Convergence: 3
+Number of Components: 4, Gibbs Prior Parameter: 100 Dirichlet Prior Parameter: 1
+Elapsed time: 2388.86
+Convergence: 3
+Number of Components: 5, Gibbs Prior Parameter: 1 Dirichlet Prior Parameter: 1
+Elapsed time: 2750.13
+Convergence: 3
+Number of Components: 5, Gibbs Prior Parameter: 10 Dirichlet Prior Parameter: 1
+Elapsed time: 3097.54
+Convergence: 3
+Number of Components: 5, Gibbs Prior Parameter: 100 Dirichlet Prior Parameter: 1
+Elapsed time: 2694.02
+Convergence: 3
+Number of Components: 6, Gibbs Prior Parameter: 1 Dirichlet Prior Parameter: 1
+Elapsed time: 3112.68
+Convergence: 3
+Number of Components: 6, Gibbs Prior Parameter: 10 Dirichlet Prior Parameter: 1
+Elapsed time: 3158.96
+Convergence: 3
+Number of Components: 6, Gibbs Prior Parameter: 100 Dirichlet Prior Parameter: 1
+Elapsed time: 3126.75
+Convergence: 3
+Cell size: 500 500
+Number of Components: 4, Gibbs Prior Parameter: 1 Dirichlet Prior Parameter: 1
+Elapsed time: 3126.77
+Convergence: 3
+Number of Components: 4, Gibbs Prior Parameter: 10 Dirichlet Prior Parameter: 1
+Elapsed time: 3735.99
+Convergence: 3
+Number of Components: 4, Gibbs Prior Parameter: 100 Dirichlet Prior Parameter: 1
+Elapsed time: 3664.88
+Convergence: 3
+Number of Components: 5, Gibbs Prior Parameter: 1 Dirichlet Prior Parameter: 1
+Elapsed time: 4358.74
+Convergence: 3
+Number of Components: 5, Gibbs Prior Parameter: 10 Dirichlet Prior Parameter: 1
+Elapsed time: 4717.16
+Convergence: 3
+Number of Components: 5, Gibbs Prior Parameter: 100 Dirichlet Prior Parameter: 1
+Elapsed time: 4732.64
+Convergence: 3
+Number of Components: 6, Gibbs Prior Parameter: 1 Dirichlet Prior Parameter: 1
+Elapsed time: 5231.25
+Convergence: 3
+Number of Components: 6, Gibbs Prior Parameter: 10 Dirichlet Prior Parameter: 1
+Elapsed time: 5363.96
+Convergence: 3
+Number of Components: 6, Gibbs Prior Parameter: 100 Dirichlet Prior Parameter: 1
+Elapsed time: 5157.01
+Convergence: 3
