@@ -1,0 +1,4 @@
+Property 660 660 BGMM_Ncomp_4_beta_0 logit_l2
+Property 660 660 BGMM_Ncomp_4_beta_0 GBM
+MSO_Violent 500 500 MRF_GMM_Ncomp_5_beta_1 logit_l2
+MSO_Violent 500 500 MRF_GMM_Ncomp_5_beta_1 GBM
