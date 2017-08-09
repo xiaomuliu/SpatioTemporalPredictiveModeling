@@ -1,0 +1,7 @@
+Property 500 500 city NA
+MRF_GMM_Ncomp_6_beta_1_0 cluster 3 city NA logit_l1
+MRF_GMM_Ncomp_6_beta_0_1 cluster 3_4 city NA logit_l1
+NA city NA city NA logit_l1
+MRF_GMM_Ncomp_6_beta_1_0 cluster 3 city NA GBM
+MRF_GMM_Ncomp_6_beta_0_1 cluster 3_4 city NA GBM
+NA city NA city NA GBM

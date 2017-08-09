@@ -17,7 +17,6 @@ sys.path.append('..')
 # Or set environment variable
 # PYTHONPATH=..
 from Misc.ComdArgParse import ParseArg
-from StructureData.LoadData import load_clusters
 
 args = ParseArg()
 infile = args['input']
@@ -41,7 +40,11 @@ else:
     name_match = re.match('^clusters_[\w]+.pkl$',default_path)                     
     cluster_pkl = default_path+name_match.group(0) 
     
-cluster_label, _ = load_clusters(cluster_pkl)
+    
+with open(cluster_pkl) as input_file:
+    clusters = pickle.load(input_file)
+   
+cluster_label = clusters['label']
 cluster_mask_list = [SetupGrid.get_cluster_mask(mask_grdInCity,cluster_label,target_label) for target_label in np.sort(np.unique(cluster_label))]            
 
                      

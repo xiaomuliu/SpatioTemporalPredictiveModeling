@@ -1,0 +1,35 @@
+-----------------------------------------------------------------------------
+                                                                           
+This .txt file is a header key for the Historical .csv file variables.
+                                                                           
+Except where otherwise indicated, values are calibrated as near-surface sensor data.
+                                                                           
+NOTE: Null values are left blank.
+                                                                           
+All data Copyright© 2013 by Weather Analytics™ LLC
+                                                                           
+By accepting this data you are agreeing to the Weather Analytics™ Terms and
+Conditions which may be viewed at
+                                                                           
+http://www.weatheranalytics.com/terms-and-conditions
+                                                                           
+Number  Name                     Description
+1       SiteId
+2       WsWaIdx                  Internal Weather Analytics Index
+3       DateHrGmt                Date and hour string in GMT [YYYY-MM-DD-HH]
+4       DateHrLwt                Date and hour string in LWT [YYYY-MM-DD-HH]
+5       Tsfc_F                   Air temperature [Fahrenheit]
+6       Tdew_F                   Dew point temperature [Fahrenheit]
+7       Twet_F                   Wet bulb temperature [Fahrenheit]
+8       Rh_PCT                   Relative humidity [Percent]
+9       Psfc_MB                  Surface air pressure [Millibars]
+10      CldCov_PCT               Cloud cover [Percent]
+11      Twc_F                    Wind chill index [Fahrenheit]
+12      Tapp_F                   Apparent (aka feels-like) temperature [Fahrenheit]
+13      Spd_KTS                  Wind speed [Knots]
+14      Dir_DEG                  Direction whence wind is blowing [Degrees]
+15      PcpPrevHr_IN             Precip previous hour [Inches liquid-equivalent]
+16      DnSol_WsqM               Downward solar radiation (Global Horizontal Irradiation) [WattHours per square meter]
+17      DiffHorz_WsqM            Diffuse horizontal radiation at sruface [WattHours per square meter]
+18      DirNormIr_WsqM           Direct normal irradiation at surface [WattHours per square meter]
+19      Spd_MPH                  Wind speed [Miles per hour]

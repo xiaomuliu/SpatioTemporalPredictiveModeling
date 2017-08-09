@@ -1,0 +1,10 @@
+[array([[         -inf,  -45.3989915 ,  -86.95627731, -130.49361193],
+       [ -45.3989915 ,          -inf, -110.13497478, -149.85910663],
+       [ -86.95627731, -110.13497478,          -inf,  -47.38503977],
+       [-130.49361193, -149.85910663,  -47.38503977,          -inf]]), array([[-inf,  nan,  nan,  nan],
+       [ nan, -inf,  nan,  nan],
+       [ nan,  nan, -inf,  nan],
+       [ nan,  nan,  nan, -inf]]), array([[-inf,  nan,  nan,  nan],
+       [ nan, -inf,  nan,  nan],
+       [ nan,  nan, -inf,  nan],
+       [ nan,  nan,  nan, -inf]])]

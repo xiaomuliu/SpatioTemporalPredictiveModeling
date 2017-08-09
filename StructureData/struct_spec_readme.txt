@@ -1,0 +1,1 @@
+time_interval_size, grouping_starting_date, grouping_ending_date, is_labeling, kernel_size_x, kernel_size_y, kernel_size_t, LT_period_start, LT_period_end, ST_period_start, ST_period_end, train_starting_date, train_ending_date, test_starting_date, test_ending_date, training_sample_chunksize, test_sample_chunksize

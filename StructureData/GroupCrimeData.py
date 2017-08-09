@@ -23,8 +23,8 @@ startdate, enddate = param_match.group(2), param_match.group(3)
 filePath_load = inpath if inpath is not None else "../SharedData/CrimeData/"
 filePath_save = outpath if outpath is not None else "../SharedData/CrimeData/"
 
-CrimeTypes = ["Homicide","SexualAssault","Robbery","AggAssaultBattery","SimAssaultBattery", \
-              "Burglary","Larceny","MVT","MSO_Violent","All_Violent","Property"]
+CrimeTypes = ["Homicide","SexualAssault","Robbery","AggAssault","AggBattery","SimAssault","SimBattery", \
+              "Burglary","Larceny","MVT","UUW","Narcotics","MSO_Violent","All_Violent","Property"]
 for crimetype in CrimeTypes:     
     fileName_load = filePath_load + crimetype + '_08_14.pkl'
     with open(fileName_load,'rb') as input_file:

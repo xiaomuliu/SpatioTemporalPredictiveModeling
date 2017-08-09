@@ -59,8 +59,10 @@ if __name__=='__main__':
     filePath_load = infile if infile is not None else "./CrimeData/DWH/"
     filePath_save = outfile if outfile is not None else "../SharedData/CrimeData/"
     
-    CrimeTypes = ["Homicide","SexualAssault","Robbery","AggAssaultBattery","SimAssaultBattery", \
-                  "Burglary","Larceny","MVT","MSO_Violent","All_Violent","Property"]
+#    CrimeTypes = ["Homicide","SexualAssault","Robbery","AggAssault","AggBattery","SimAssault","SimBattery", \
+#             "Burglary","Larceny","MVT","UUW","Narcotics","MSO_Violent","All_Violent","Property"]
+    CrimeTypes = ["AggAssault","AggBattery","SimAssault","SimBattery","UUW","Narcotics"]         
+             
     for crimetype in CrimeTypes:
         fileName_load = filePath_load + crimetype + "_08_14.csv"
         CrimeData = pd.read_csv(fileName_load)
