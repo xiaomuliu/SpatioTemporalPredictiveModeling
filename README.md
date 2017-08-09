@@ -9,4 +9,4 @@ Violent crime, District 7
 ![alt text](https://github.com/xiaomuliu/SpatioTemporalPredictiveModeling/blob/master/Figures/PAI_violent_d7.png)
 
 Property crime, District 11
-![alt text](https://github.com/xiaomuliu/SpatioTemporalPredictiveModeling/blob/master/Figures/PAI_property_d11.png)
+![alt text](https://github.com/xiaomuliu/SpatioTemporalPredictiveModeling/blob/master/Figures/PAI_property_d1.png)
