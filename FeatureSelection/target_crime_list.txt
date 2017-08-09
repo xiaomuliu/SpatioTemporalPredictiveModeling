@@ -1,0 +1,6 @@
+Property 500 500 30
+MSO_Violent 500 500 30
+All_Violent 500 500 30 
+Property 660 660 30
+MSO_Violent 660 660 30
+All_Violent 660 660 30 
