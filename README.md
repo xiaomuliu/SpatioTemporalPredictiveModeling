@@ -1,6 +1,6 @@
 #SpatioTemporalPredictiveModeling
 
-Geospatial attribute feature examples:
+Geospatial attribute feature examples (street proximity, building density):
 ![alt text](https://github.com/xiaomuliu/SpatioTemporalPredictiveModeling/blob/master/Figures/Feature_examples.jpeg)
 
 Prediction evaluation (actual number of crime captured% vs. top X% predicted risky area) comparing against density-based models
